@@ -1,24 +1,33 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Nisarg\\GitHub\\KeepAwake\\KeepAwake-Windows-App\\KeepAwake.csproj": {}
+    "C:\\Users\\Nisarg\\source\\repos\\KeepAwake\\KeepAwake\\KeepAwake.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Nisarg\\GitHub\\KeepAwake\\KeepAwake-Windows-App\\KeepAwake.csproj": {
+    "C:\\Users\\Nisarg\\source\\repos\\KeepAwake\\KeepAwake\\KeepAwake.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Nisarg\\GitHub\\KeepAwake\\KeepAwake-Windows-App\\KeepAwake.csproj",
+        "projectUniqueName": "C:\\Users\\Nisarg\\source\\repos\\KeepAwake\\KeepAwake\\KeepAwake.csproj",
         "projectName": "KeepAwake",
-        "projectPath": "C:\\Users\\Nisarg\\GitHub\\KeepAwake\\KeepAwake-Windows-App\\KeepAwake.csproj",
+        "projectPath": "C:\\Users\\Nisarg\\source\\repos\\KeepAwake\\KeepAwake\\KeepAwake.csproj",
         "packagesPath": "C:\\Users\\Nisarg\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Nisarg\\GitHub\\KeepAwake\\KeepAwake-Windows-App\\obj\\",
+        "outputPath": "C:\\Users\\Nisarg\\source\\repos\\KeepAwake\\KeepAwake\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Nisarg\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Nisarg\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net8.0-windows"
         ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {}
+        },
         "frameworks": {
           "net8.0-windows7.0": {
             "targetAlias": "net8.0-windows",
