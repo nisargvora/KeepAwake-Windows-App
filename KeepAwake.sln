@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34607.119
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "KeepAwake", "KeepAwake.csproj", "{73B4F93D-DF3E-4229-8C39-384FDF73AFBB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{73B4F93D-DF3E-4229-8C39-384FDF73AFBB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73B4F93D-DF3E-4229-8C39-384FDF73AFBB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73B4F93D-DF3E-4229-8C39-384FDF73AFBB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73B4F93D-DF3E-4229-8C39-384FDF73AFBB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {05B60AB4-280C-424B-8B47-C3BB9B92614B}
+	EndGlobalSection
+EndGlobal

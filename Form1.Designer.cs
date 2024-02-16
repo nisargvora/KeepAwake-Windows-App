@@ -41,7 +41,7 @@
             // 
             notifyIcon1.ContextMenuStrip = contextMenuStrip1;
             notifyIcon1.Icon = (Icon)resources.GetObject("notifyIcon1.Icon");
-            notifyIcon1.Text = "notifyIcon1";
+            notifyIcon1.Text = "KeepAwake";
             notifyIcon1.Visible = true;
             // 
             // contextMenuStrip1

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("KeepAwake")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ff51cec34392d6f8b522d4cde0f447ef489fa8d9")]
 [assembly: System.Reflection.AssemblyProductAttribute("KeepAwake")]
 [assembly: System.Reflection.AssemblyTitleAttribute("KeepAwake")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Nisarg\\source\\repos\\KeepAwake\\KeepAwake\\KeepAwake.csproj": {}
+    "C:\\Users\\Nisarg\\GitHub\\KeepAwake\\KeepAwake-Windows-App\\KeepAwake.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Nisarg\\source\\repos\\KeepAwake\\KeepAwake\\KeepAwake.csproj": {
+    "C:\\Users\\Nisarg\\GitHub\\KeepAwake\\KeepAwake-Windows-App\\KeepAwake.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Nisarg\\source\\repos\\KeepAwake\\KeepAwake\\KeepAwake.csproj",
+        "projectUniqueName": "C:\\Users\\Nisarg\\GitHub\\KeepAwake\\KeepAwake-Windows-App\\KeepAwake.csproj",
         "projectName": "KeepAwake",
-        "projectPath": "C:\\Users\\Nisarg\\source\\repos\\KeepAwake\\KeepAwake\\KeepAwake.csproj",
+        "projectPath": "C:\\Users\\Nisarg\\GitHub\\KeepAwake\\KeepAwake-Windows-App\\KeepAwake.csproj",
         "packagesPath": "C:\\Users\\Nisarg\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Nisarg\\source\\repos\\KeepAwake\\KeepAwake\\obj\\",
+        "outputPath": "C:\\Users\\Nisarg\\GitHub\\KeepAwake\\KeepAwake-Windows-App\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
